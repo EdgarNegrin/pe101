@@ -1,6 +1,6 @@
 import 'mocha';
 import {expect} from 'chai';
-import {holamundo} from '../../src/pe101/ejemplo'
+import {holamundo} from '..//src/index'
 
 describe('Tests', () => {
   it('Hola mundo', () => {

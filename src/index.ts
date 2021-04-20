@@ -1,1 +1,3 @@
-console.log("Holamundo");
+export function holamundo() {
+    return "Hola mundo";
+  }
