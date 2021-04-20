@@ -1,5 +1,5 @@
 {
-  "name": "ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-edgarnegrin",
+  "name": "pe101",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-EdgarNegrin.git"
+    "url": "git+https://github.com/EdgarNegrin/pe101.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-EdgarNegrin/issues"
+    "url": "https://github.com/EdgarNegrin/pe101/issues"
   },
-  "homepage": "https://github.com/ULL-ESIT-INF-DSI-2021/ull-esit-inf-dsi-20-21-prct08-filesystem-notes-app-EdgarNegrin#readme",
+  "homepage": "https://github.com/EdgarNegrin/pe101/#readme",
   "devDependencies": {
     "@types/chai": "^4.2.16",
     "@types/mocha": "^8.2.2",
