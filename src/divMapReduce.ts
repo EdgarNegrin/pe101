@@ -18,8 +18,14 @@ export class DivMapReduce extends MapReduce {
    */
   protected reduce(datas: number[]): number {
     let sol: number = datas[0];
+    let flag: boolean = false;
     datas.forEach((element) => {
-      sol = sol / element;
+      if (flag === false) {
+        sol = element;
+        flag = true;
+      } else {
+        sol = sol / element;
+      }
     })
     return sol;
   }

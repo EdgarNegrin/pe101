@@ -28,7 +28,7 @@ describe('Tests', () => {
     let reducediv = new DivMapReduce([1, 2], function(data: number) {
       return data * 2;
     });
-    expect(reducediv.run()).to.be.equal(0.25);
+    expect(reducediv.run()).to.be.equal(0.5);
   });
 });
  
